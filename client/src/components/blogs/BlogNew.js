@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 // BlogNew shows BlogForm and BlogFormReview
 import React, { Component } from "react";
 import { reduxForm } from "redux-form";
